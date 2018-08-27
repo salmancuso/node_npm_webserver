@@ -45,9 +45,9 @@ Review in your favorite text editor the package.json file to ensure the server c
 	"author": "Sal Mancuso",
 	"license": "ISC",
 	"bugs": {
-		"url": "[https://github.com/salmancuso/interactivity-with-JavaScript/issues](https://github.com/salmancuso/interactivity-with-JavaScript/issues)"
+		"url": "[URL/TO/GIT/REPO](URL/TO/GIT/REPO)"
 	},
-	"homepage": "[https://github.com/salmancuso/interactivity-with-JavaScript#readme](https://github.com/salmancuso/interactivity-with-JavaScript#readme)",
+	"homepage": "[URL/TO/GIT/REPO#readme](URL/TO/GIT/REPO#readme)",
 	"dependencies": {},
 	"devDependencies": {
 		"lite-server": "^2.4.0"
